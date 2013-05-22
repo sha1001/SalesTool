@@ -12,5 +12,9 @@ public class Main {
 		System.out.println("Hello Happy Sales People!");
 		System.out.println("This app shows sales data.");
 		System.out.println("--------------------------");
+		
+		// Awesome new code.
+		System.out.println("Other dev change here.");
+		// Yup, totally awesome!
 	}
 }
